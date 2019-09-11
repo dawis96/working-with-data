@@ -1,2 +1,2 @@
-# working-with-data
-Data mining, data vizualizations and machine learning.
+# My playground for machine learing
+Machine learning, deep learning, data mining and data vizualizations.
